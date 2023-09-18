@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Encuestas Vinc.</string>
+    <string name="title_activity_registro_usuario">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="resume">Actualizacion de la ubicacion</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="formato_hora">hh:mm</string>
+    <!--Fin copiar-->
+
+
+</resources>

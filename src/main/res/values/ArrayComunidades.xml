@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcionesComunidad">
+        <item>Seleccione una Comunidad</item>
+        <item>Puerto Limón</item>
+        <item>San Jacinto</item>
+        <item>San Francisco de Peripa</item>
+        <item>Palo Blanco</item>
+        <item>San Remo</item>
+        <item>La Polvareda</item>
+        <item>San Luis</item>
+        <item>Comuna Congoma Grande</item>
+        <item>La Unión </item>
+        <item>Colonia Vicente Rocafuerte</item>
+        <item>La Independencia</item>
+        <item>Bolivar</item>
+        <item>Recinto Naranjito Las Vegas y Recinto Naranjito La Chiva</item>
+        <item>El Progreso</item>
+        <item>La Paragua</item>
+        <item>Santa Cecilia</item>
+        <item>San Isidro de Peripa</item>
+        <item>La Providencia</item>
+        <item>Libertad del Congoma</item>
+        <item>Tahuaza</item>
+        <item>Comunidad Tsáchila El Naranjo</item>
+        <item>Copal</item>
+        <item>San Juan</item>
+        <item>Numancia</item>
+        <item>Comunidad Tsáchila El Poste</item>
+        <item>El Naranjo</item>
+        <item>El Recreo</item>
+        <item>La Esparta</item>
+        <item>Santa Isabel</item>
+        <item>La Alegría</item>
+        <item>Chuiguipe</item>
+        <item>Colonape</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
